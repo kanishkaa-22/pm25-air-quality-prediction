@@ -103,4 +103,4 @@ accessible via ngrok tunnel.
 | Organization | TANSAM-Chennai |
 | Period | 9-days|
 
-<p align="center">Made with ❤️ | PM2.5 Air Quality Prediction | Random Forest | R2 = 0.9312</p>
+<p align="center">PM2.5 Air Quality Prediction | Random Forest | R2 = 0.9312</p>
